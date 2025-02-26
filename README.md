@@ -17,4 +17,4 @@ Aspiring software developer with a background in psychology and CS coursework. P
 
 ## 📩 Contact Me  
 ✉️ Email: rfernan2@ramapo.edu  
-🔗 [LinkedIn Profile](www.linkedin.com/in/rebeccafernandez935)  
+🔗 LinkedIn Profile: www.linkedin.com/in/rebeccafernandez935  
