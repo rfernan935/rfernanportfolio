@@ -3,7 +3,7 @@ Aspiring software developer with a background in psychology and CS coursework. P
 
 ## Featured Projects  
 ### C++ Stock Market Simulator
-Simulator program to simulate rising aand falling prices of the stock market with unctions to buy/sell stocks, add funds to spend, and print reports.
+Simulator program to mimic rising and falling prices of the stock market with unctions to buy/sell stocks, add funds to spend, and print reports.
 [GitHub Repo](https://github.com/rfernan935/rfernanportfolio/tree/main/Coding%20Projects/stockSimulator) | [Detailed Description](https://github.com/rfernan935/rfernanportfolio/blob/main/Coding%20Projects/stockSimulator/codeDescription.md)  
 
 ### C++ Fruit Game
