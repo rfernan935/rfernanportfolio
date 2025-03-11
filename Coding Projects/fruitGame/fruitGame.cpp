@@ -1,9 +1,10 @@
 /******************************************************************************
 
-Name: Rebecca Fernandez
-Date: 12/1/23
-Project: fruits and basket video game using 2 dimensional array
+Rebecca Fernandez's Fruits and Basket Video Game
+
+Contacts
 Email: rfernan2@ramapo.edu
+LinkedIn: www.linkedin.com/in/rebeccafernandez935
 
 *******************************************************************************/
 #include <iostream>
@@ -203,11 +204,13 @@ short updateFruits( unsigned short board[][ COLS ],
         {
             if( board[numRows - 1][col] )
             {
+                // if a friut reaches the basket, increase score by 1
                 ++score;
                 cout << "You caught a fruit! Score + " << score << endl;
             }
             else
             {
+                // if a fruit reches ground reduce score by 1
                 --score;
                 cout << "You dropped a fruit! Score " << score << endl;
             }
@@ -228,10 +231,6 @@ short updateFruits( unsigned short board[][ COLS ],
             }
         }
     }
-    
-    // if a fruit reches ground reduce score by 1
-    
-    // if a friut reaches the basket, increase score by 1
     
     // decide whether a new friut must be created
     newFruit = rand() % NEW_FRUIT + 1;
