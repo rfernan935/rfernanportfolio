@@ -1,17 +1,18 @@
 ### Overview of the Stock Market Simulator
 This C++ program is a stock market simulator that allows users to:
 
-Buy and sell shares.
-Add cash to their account.
-View current holdings (including individual stock values and total net worth).
-Track stock price changes (with highest and lowest values recorded).
-Generate a final report summarizing the user's financial position.
-Key Features and How They Work
+- Buy and sell shares.
+- Add cash to their account.
+- View current holdings (including individual stock values and total net worth).
+- Track stock price changes (with highest and lowest values recorded).
+- Generate a final report summarizing the user's financial position.
+
+## Key Features and How They Work
 1. Initialization
 The program begins by welcoming the user and asking for an initial cash investment (minimum $100).
 It initializes 10 popular stock names (e.g., Apple, Microsoft) and assigns random starting prices between $50 and $150.
 Each stock's highest and lowest price trackers are initialized to the starting price.
-2. Main Menu Options
+3. Main Menu Options
 The main menu presents five options:
 
 1. Buy Shares
