@@ -29,3 +29,9 @@
   - If a fruit lands on the ground without being caught, the score decreases.
 - Moves all other fruits down by one row.
 - Randomly generates new fruits in the top row with a 1-in-3 chance.
+
+## Program Flow
+1. User starts the program.
+2. User is able to move the basket left, right, or remain in place repeatedly until quit.
+3. As user catches or misses randomly generated fruit, score is updated and displayed accordingly.
+4. When the user quits, the final score is shown.
