@@ -65,7 +65,7 @@ Each stock’s:
 - Highest and lowest recorded prices.
 
 
-#### Program Flow
+## Program Flow
 1. User starts the program.
 2. Initial cash investment is entered.
 3. User interacts with the menu to buy/sell shares, add cash, or check holdings.
