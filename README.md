@@ -4,7 +4,7 @@ Aspiring software developer with a background in psychology and CS coursework. P
 ## Featured Projects  
 ### C++ Stock Market Simulator
 (Blurb)
-[GitHub Repo](#) | Description  
+[GitHub Repo](https://github.com/rfernan935/rfernanportfolio/tree/main/Coding%20Projects/stockSimulator) | Description  
 
 ### C++ Fruit Game
 (Blurb)
