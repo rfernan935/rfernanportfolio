@@ -9,7 +9,7 @@ Simulator program that mimics stock price fluctuations with functionality to buy
 
 #### C++ Fruit Game
 Arcade-style game where the player catches falling fruit in a basket. Score increases with each successful catch and decreases when fruit is dropped.
-[GitHub Repo](https://github.com/rfernan935/rfernanportfolio/tree/main/Coding%20Projects/fruitGame) | [Detailed Description](https://github.com/rfernan935/rfernanportfolio/blob/main/Coding%20Projects/fruitGame/codeDescription.md)  
+[GitHub Repo]([https://github.com/rfernan935/rfernanportfolio/tree/main/Coding%20Projects/fruitGame]) | [Detailed Description]((https://github.com/rfernan935/rfernanportfolio/blob/main/Coding%20Projects/C%2B%2B/fruitGame/codeDescription.md))  
 
 ### Arduino Uno Projects
 Exploring physical computing and microcontroller programming with the Arduino IDE—focusing on interactive hardware like LEDs, sensors, and custom inputs.
