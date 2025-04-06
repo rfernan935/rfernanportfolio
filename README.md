@@ -21,7 +21,7 @@ elephant
 elephant
 
 ### Apple Shortcuts and Automations
-Built custom Shortcuts for iOS to streamline daily tasks, automate phone behaviors, and trigger app workflows—demonstrating a keen interest in no-code/low-code solutions and user-focused automation.
+Built custom Shortcuts for iOS to streamline daily tasks and automate phone behaviors, as well as to have a bit of fun while showcasing a wide range of Shortcut feature.
 
 #### Morning Alarms Shortcut
 elephant
