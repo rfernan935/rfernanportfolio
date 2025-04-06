@@ -13,6 +13,7 @@ Arcade-style game where the player catches falling fruit in a basket. Score incr
 
 ### Arduino Uno Projects
 Exploring physical computing and microcontroller programming with the Arduino IDE—focusing on interactive hardware like LEDs, sensors, and custom inputs.
+[GitHub Repo](https://github.com/rfernan935/rfernanportfolio/tree/main/Coding%20Projects/Arduino%20IDE)
 
 #### Arduino Line Following Robot
 elephant
@@ -22,8 +23,10 @@ elephant
 elephant
 [GitHup Repo](https://github.com/rfernan935/rfernanportfolio/tree/main/Coding%20Projects/Arduino%20IDE/IRremote-7SegDisplay) | [Detailed Description](https://github.com/rfernan935/rfernanportfolio/blob/main/Coding%20Projects/Arduino%20IDE/IRremote-7SegDisplay/codeDescription.md)
 
+
 ### Apple Shortcuts and Automations
 Built custom Shortcuts for iOS to streamline daily tasks and automate phone behaviors, as well as to have a bit of fun while showcasing a wide range of Shortcut feature.
+[GitHub Repo](https://github.com/rfernan935/rfernanportfolio/tree/main/Coding%20Projects/iOS%20Shortcuts)
 
 #### Morning Alarms Shortcut
 elephant
@@ -33,11 +36,13 @@ elephant
 elephant
 [GitHup Repo](https://github.com/rfernan935/rfernanportfolio/tree/main/Coding%20Projects/iOS%20Shortcuts/Play-a-Game%20Hub) | [Detailed Description](https://github.com/rfernan935/rfernanportfolio/blob/main/Coding%20Projects/iOS%20Shortcuts/Play-a-Game%20Hub/README.md)
 
+
 ## Skills  
 - **Programming:** C++ | Object-Oriented Programming | Arduino IDE
 - **Tech Tools:** Visual Studio | Github | Apple Shortcuts  
 - **CS Concepts:** Data Structures & Algorithms  
 - **Other Tools:** Microsoft Office | Google Workspace  
+
 
 ## Contact Me  
 Email: rfernan2@ramapo.edu  
