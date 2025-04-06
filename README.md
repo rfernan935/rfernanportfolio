@@ -5,7 +5,7 @@ Aspiring software developer with a background in psychology and computer science
 ### C++ Projects
 #### C++ Stock Market Simulator
 Simulator program that mimics stock price fluctuations with functionality to buy/sell stocks, add funds, and print transaction reports.
-[GitHub Repo](https://github.com/rfernan935/rfernanportfolio/tree/main/Coding%20Projects/stockSimulator) | [Detailed Description](https://github.com/rfernan935/rfernanportfolio/blob/main/Coding%20Projects/stockSimulator/codeDescription.md)  
+[GitHub Repo](https://github.com/rfernan935/rfernanportfolio/tree/main/Coding%20Projects/C%2B%2B/stockSimulator) | [Detailed Description](https://github.com/rfernan935/rfernanportfolio/blob/main/Coding%20Projects/C%2B%2B/stockSimulator/codeDescription.md)  
 
 #### C++ Fruit Game
 Arcade-style game where the player catches falling fruit in a basket. Score increases with each successful catch and decreases when fruit is dropped.
