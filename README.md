@@ -3,6 +3,9 @@ Aspiring software developer with a background in psychology and computer science
 
 ## Featured Projects
 ### C++ Projects
+Simulator and minigame programs that demonstrate mastery of essential C++
+[GitHub Repo](https://github.com/rfernan935/rfernanportfolio/tree/main/Coding%20Projects/C%2B%2B)
+
 #### C++ Stock Market Simulator
 Simulator program that mimics stock price fluctuations with functionality to buy/sell stocks, add funds, and print transaction reports.
 [GitHub Repo](https://github.com/rfernan935/rfernanportfolio/tree/main/Coding%20Projects/C%2B%2B/stockSimulator) | [Detailed Description](https://github.com/rfernan935/rfernanportfolio/blob/main/Coding%20Projects/C%2B%2B/stockSimulator/codeDescription.md)  
