@@ -1,19 +1,39 @@
 # Rebecca Fernandez - Tech Portfolio
-Aspiring software developer with a background in psychology and CS coursework. Passionate about problem-solving and building useful applications.  
+Aspiring software developer with a background in psychology and computer science coursework. Passionate about problem-solving and building intuitive, meaningful applications—especially those that blend software with real-world interactivity.  
 
-## Featured Projects  
-### C++ Stock Market Simulator
-Simulator program to mimic rising and falling prices of the stock market with functions to buy/sell stocks, add funds to spend, and print reports.
+## Featured Projects
+### C++ Projects
+#### C++ Stock Market Simulator
+Simulator program that mimics stock price fluctuations with functionality to buy/sell stocks, add funds, and print transaction reports.
 [GitHub Repo](https://github.com/rfernan935/rfernanportfolio/tree/main/Coding%20Projects/stockSimulator) | [Detailed Description](https://github.com/rfernan935/rfernanportfolio/blob/main/Coding%20Projects/stockSimulator/codeDescription.md)  
 
-### C++ Fruit Game
-Play a game to catch falling fruits in a basket - earn points when fruit is caught, lose points what fruit is dropped.  
+#### C++ Fruit Game
+Arcade-style game where the player catches falling fruit in a basket. Score increases with each successful catch and decreases when fruit is dropped.
 [GitHub Repo](https://github.com/rfernan935/rfernanportfolio/tree/main/Coding%20Projects/fruitGame) | [Detailed Description](https://github.com/rfernan935/rfernanportfolio/blob/main/Coding%20Projects/fruitGame/codeDescription.md)  
 
+### Arduino Uno Projects
+Exploring physical computing and microcontroller programming with the Arduino IDE—focusing on interactive hardware like LEDs, sensors, and custom inputs.
+
+#### Arduino Line Following Robot
+elephant
+
+#### IR Remote Control of a 7 Segment Display with Arduino
+elephant
+
+### Apple Shortcuts and Automations
+Built custom Shortcuts for iOS to streamline daily tasks, automate phone behaviors, and trigger app workflows—demonstrating a keen interest in no-code/low-code solutions and user-focused automation.
+
+#### Morning Alarms Shortcut
+elephant
+
+#### Play-a-Game Hub Shortcut
+elephant
+
 ## Skills  
-- C++ | Visual Studio | GitHub | Object-Oriented Programming  
-- Data Structures & Algorithms  
-- Microsoft Office, Google Workspace  
+- **Programming:** C++ | Object-Oriented Programming | Arduino IDE
+- **Tech Tools:** Visual Studio | Github | Apple Shortcuts  
+- **CS Concepts:** Data Structures & Algorithms  
+- **Other Tools:** Microsoft Office | Google Workspace  
 
 ## Contact Me  
 Email: rfernan2@ramapo.edu  
