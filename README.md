@@ -32,7 +32,7 @@ Built custom Shortcuts for iOS to streamline daily tasks and automate phone beha
 [GitHub Repo](https://github.com/rfernan935/rfernanportfolio/tree/main/Coding%20Projects/iOS%20Shortcuts)
 
 #### Morning Alarms Shortcut
-elephant
+A pair of iOS Shortcuts designed to streamline my morning routine by automatically toggling groups of alarms on or off based on my schedule. The system runs nightly at bedtime, eliminating the need to manage multiple alarms manually.
 [GitHup Repo](https://github.com/rfernan935/rfernanportfolio/tree/main/Coding%20Projects/iOS%20Shortcuts/Morning%20Alarms) | [Detailed Description](https://github.com/rfernan935/rfernanportfolio/blob/main/Coding%20Projects/iOS%20Shortcuts/Morning%20Alarms/README.md)
 
 #### Play-a-Game Hub Shortcut
