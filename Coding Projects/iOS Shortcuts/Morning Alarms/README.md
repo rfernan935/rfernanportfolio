@@ -12,4 +12,4 @@ No: Ends the shortcut without activating any alarms.
 
 “Disable Alarms Steps.gif” showcases the companion shortcut, which toggles off all alarms that may have been activated by the first shortcut.
 
-“Morning Alarms Shortcut Demo.gif” demonstrates both shortcuts in action, providing a complete overview of the user experience.
+[Morning Alarms Shortcut Demo.gif](https://github.com/rfernan935/rfernanportfolio/blob/main/Coding%20Projects/iOS%20Shortcuts/Morning%20Alarms/Morning%20Alarms%20Shortcut%20Demo.gif) demonstrates both shortcuts in action, providing a complete overview of the user experience.
