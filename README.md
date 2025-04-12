@@ -20,11 +20,11 @@ Exploring physical computing and microcontroller programming with the Arduino ID
 
 #### Arduino Line Following Robot
 elephant
-[GitHup Repo](https://github.com/rfernan935/rfernanportfolio/tree/main/Coding%20Projects/Arduino%20IDE/LineFollowingRobot) | [Detailed Description](https://github.com/rfernan935/rfernanportfolio/blob/main/Coding%20Projects/Arduino%20IDE/LineFollowingRobot/codeDescription.md)
+[GitHub Repo](https://github.com/rfernan935/rfernanportfolio/tree/main/Coding%20Projects/Arduino%20IDE/LineFollowingRobot) | [Detailed Description](https://github.com/rfernan935/rfernanportfolio/blob/main/Coding%20Projects/Arduino%20IDE/LineFollowingRobot/codeDescription.md)
 
 #### IR Remote Control of a 7 Segment Display with Arduino
 elephant
-[GitHup Repo](https://github.com/rfernan935/rfernanportfolio/tree/main/Coding%20Projects/Arduino%20IDE/IRremote-7SegDisplay) | [Detailed Description](https://github.com/rfernan935/rfernanportfolio/blob/main/Coding%20Projects/Arduino%20IDE/IRremote-7SegDisplay/codeDescription.md)
+[GitHub Repo](https://github.com/rfernan935/rfernanportfolio/tree/main/Coding%20Projects/Arduino%20IDE/IRremote-7SegDisplay) | [Detailed Description](https://github.com/rfernan935/rfernanportfolio/blob/main/Coding%20Projects/Arduino%20IDE/IRremote-7SegDisplay/codeDescription.md)
 
 
 ### Apple Shortcuts and Automations
@@ -37,7 +37,7 @@ A pair of iOS Shortcuts designed to streamline my morning routine by automatical
 
 #### Play-a-Game Hub Shortcut
 elephant
-[GitHup Repo](https://github.com/rfernan935/rfernanportfolio/tree/main/Coding%20Projects/iOS%20Shortcuts/Play-a-Game%20Hub) | [Detailed Description](https://github.com/rfernan935/rfernanportfolio/blob/main/Coding%20Projects/iOS%20Shortcuts/Play-a-Game%20Hub/README.md)
+[GitHub Repo](https://github.com/rfernan935/rfernanportfolio/tree/main/Coding%20Projects/iOS%20Shortcuts/Play-a-Game%20Hub) | [Detailed Description](https://github.com/rfernan935/rfernanportfolio/blob/main/Coding%20Projects/iOS%20Shortcuts/Play-a-Game%20Hub/README.md)
 
 
 ## Skills  
