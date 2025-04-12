@@ -19,7 +19,7 @@ Exploring physical computing and microcontroller programming with the Arduino ID
 [GitHub Repo](https://github.com/rfernan935/rfernanportfolio/tree/main/Coding%20Projects/Arduino%20IDE)
 
 #### Arduino Line Following Robot
-elephant
+This line-following robot uses an Arduino Uno and infrared sensors to detect and follow a black line on a white surface. It demonstrates basic autonomous navigation by controlling motor outputs based on real-time sensor input.
 [GitHub Repo](https://github.com/rfernan935/rfernanportfolio/tree/main/Coding%20Projects/Arduino%20IDE/LineFollowingRobot) | [Detailed Description](https://github.com/rfernan935/rfernanportfolio/blob/main/Coding%20Projects/Arduino%20IDE/LineFollowingRobot/README.md)
 
 #### IR Remote Control of a 7 Segment Display with Arduino
