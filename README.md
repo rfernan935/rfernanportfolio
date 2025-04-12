@@ -23,7 +23,7 @@ elephant
 [GitHub Repo](https://github.com/rfernan935/rfernanportfolio/tree/main/Coding%20Projects/Arduino%20IDE/LineFollowingRobot) | [Detailed Description](https://github.com/rfernan935/rfernanportfolio/blob/main/Coding%20Projects/Arduino%20IDE/LineFollowingRobot/codeDescription.md)
 
 #### IR Remote Control of a 7 Segment Display with Arduino
-elephant
+This project uses an Arduino Uno, IR receiver, and 7-segment display to show digits 0–9 based on input from an IR remote. It demonstrates basic IR signal decoding and display control using the IRremote and SevSeg libraries.
 [GitHub Repo](https://github.com/rfernan935/rfernanportfolio/tree/main/Coding%20Projects/Arduino%20IDE/IRremote-7SegDisplay) | [Detailed Description](https://github.com/rfernan935/rfernanportfolio/blob/main/Coding%20Projects/Arduino%20IDE/IRremote-7SegDisplay/codeDescription.md)
 
 
