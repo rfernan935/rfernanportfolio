@@ -36,7 +36,7 @@ A pair of iOS Shortcuts designed to streamline my morning routine by automatical
 [GitHup Repo](https://github.com/rfernan935/rfernanportfolio/tree/main/Coding%20Projects/iOS%20Shortcuts/Morning%20Alarms) | [Detailed Description](https://github.com/rfernan935/rfernanportfolio/blob/main/Coding%20Projects/iOS%20Shortcuts/Morning%20Alarms/README.md)
 
 #### Play-a-Game Hub Shortcut
-elephant
+A modular collection of iOS Shortcuts that creates an interactive hub for playing and managing drinking-style party games. The system allows users to view game rules, select from multiple games, and customize gameplay based on categories and round count.
 [GitHub Repo](https://github.com/rfernan935/rfernanportfolio/tree/main/Coding%20Projects/iOS%20Shortcuts/Play-a-Game%20Hub) | [Detailed Description](https://github.com/rfernan935/rfernanportfolio/blob/main/Coding%20Projects/iOS%20Shortcuts/Play-a-Game%20Hub/README.md)
 
 
