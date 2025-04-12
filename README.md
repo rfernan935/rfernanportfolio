@@ -12,7 +12,7 @@ Simulator program that mimics stock price fluctuations with functionality to buy
 
 #### C++ Fruit Game
 Arcade-style game where the player catches falling fruit in a basket. Score increases with each successful catch and decreases when fruit is dropped.
-[GitHub Repo](https://github.com/rfernan935/rfernanportfolio/tree/main/Coding%20Projects/C%2B%2B/fruitGame) | [Detailed Description](https://github.com/rfernan935/rfernanportfolio/blob/main/Coding%20Projects/C%2B%2B/fruitGame/codeDescription.md).  
+[GitHub Repo](https://github.com/rfernan935/rfernanportfolio/tree/main/Coding%20Projects/C%2B%2B/fruitGame) | [Detailed Description](https://github.com/rfernan935/rfernanportfolio/blob/main/Coding%20Projects/C%2B%2B/fruitGame/README.md).  
 
 ### Arduino Uno Projects
 Exploring physical computing and microcontroller programming with the Arduino IDE—focusing on interactive hardware like LEDs, sensors, and custom inputs.
@@ -20,11 +20,11 @@ Exploring physical computing and microcontroller programming with the Arduino ID
 
 #### Arduino Line Following Robot
 elephant
-[GitHub Repo](https://github.com/rfernan935/rfernanportfolio/tree/main/Coding%20Projects/Arduino%20IDE/LineFollowingRobot) | [Detailed Description](https://github.com/rfernan935/rfernanportfolio/blob/main/Coding%20Projects/Arduino%20IDE/LineFollowingRobot/codeDescription.md)
+[GitHub Repo](https://github.com/rfernan935/rfernanportfolio/tree/main/Coding%20Projects/Arduino%20IDE/LineFollowingRobot) | [Detailed Description](https://github.com/rfernan935/rfernanportfolio/blob/main/Coding%20Projects/Arduino%20IDE/LineFollowingRobot/README.md)
 
 #### IR Remote Control of a 7 Segment Display with Arduino
 This project uses an Arduino Uno, IR receiver, and 7-segment display to show digits 0–9 based on input from an IR remote. It demonstrates basic IR signal decoding and display control using the IRremote and SevSeg libraries.
-[GitHub Repo](https://github.com/rfernan935/rfernanportfolio/tree/main/Coding%20Projects/Arduino%20IDE/IRremote-7SegDisplay) | [Detailed Description](https://github.com/rfernan935/rfernanportfolio/blob/main/Coding%20Projects/Arduino%20IDE/IRremote-7SegDisplay/codeDescription.md)
+[GitHub Repo](https://github.com/rfernan935/rfernanportfolio/tree/main/Coding%20Projects/Arduino%20IDE/IRremote-7SegDisplay) | [Detailed Description](https://github.com/rfernan935/rfernanportfolio/blob/main/Coding%20Projects/Arduino%20IDE/IRremote-7SegDisplay/README.md)
 
 
 ### Apple Shortcuts and Automations
