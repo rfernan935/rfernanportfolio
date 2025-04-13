@@ -68,7 +68,7 @@ Before writing the final code, I utilized a separate sketch to read the raw hexa
 
 - USB cable for programming
 
--9V battery with on/off toggle case
+- 9V battery with on/off toggle case
 
 
 
