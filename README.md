@@ -3,8 +3,11 @@ Aspiring software developer with a background in psychology and computer science
 
 ## Featured Projects
 ### Local Large Language Model (LLM) Projects
+[GitHub Repo](https://github.com/rfernan935/rfernanportfolio/tree/main/Coding%20Projects/LLM%20Projects)
+
+#### Local LLM Exploration: Gemma, Llama 2, and Persistent Memory Prototyping
 This project explores the integration of local LLMs like Gemma and Llama 2 with a focus on persistent memory systems, using C++ and Ollama. It lays the groundwork for adaptive, context-aware AI applications by prototyping a persistent chat history and dynamic learning framework. Future development aims to evolve this system into a lightweight, interactive AI tutor that personalizes itself over time.
-[Github Repo](https://github.com/rfernan935/rfernanportfolio/tree/main/Coding%20Projects/Local%20LLM%20Exploration) | [Detailed Description](https://github.com/rfernan935/rfernanportfolio/blob/main/Coding%20Projects/Local%20LLM%20Exploration/README.md)
+[GitHub Repo](https://github.com/rfernan935/rfernanportfolio/tree/main/Coding%20Projects/LLM%20Projects/Local%20LLM%20Exploration) | [Detailed Description](https://github.com/rfernan935/rfernanportfolio/blob/main/Coding%20Projects/LLM%20Projects/Local%20LLM%20Exploration/README.md)
 
 
 ### C++ Projects
