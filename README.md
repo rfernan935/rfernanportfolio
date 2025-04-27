@@ -2,7 +2,7 @@
 Aspiring software developer with a background in psychology and computer science coursework. Passionate about problem-solving and building intuitive, meaningful applications—especially those that blend software with real-world interactivity.  
 
 ## Featured Projects
-### Large Language Model (LLM) Projects
+### Local Large Language Model (LLM) Projects
 blurb
 [Github Repo](https://github.com/rfernan935/rfernanportfolio/tree/main/Coding%20Projects/Local%20LLM%20Exploration) | [Detailed Description](https://github.com/rfernan935/rfernanportfolio/blob/main/Coding%20Projects/Local%20LLM%20Exploration/README.md)
 
