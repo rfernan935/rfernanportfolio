@@ -4,7 +4,7 @@ Aspiring software developer with a background in psychology and computer science
 ## Featured Projects
 ### Large Language Model (LLM) Projects
 blurb
-[Github Repo](https://github.com/rfernan935/rfernanportfolio/tree/main/Coding%20Projects/Local%20LLM%20Exploration) | [Detailed Description](https://github.com/rfernan935/rfernanportfolio/blob/main/Coding%20Projects/Local%20LLM%20Exploration%20and%20Persistent%20Memory/README.md)
+[Github Repo](https://github.com/rfernan935/rfernanportfolio/tree/main/Coding%20Projects/Local%20LLM%20Exploration) | [Detailed Description](https://github.com/rfernan935/rfernanportfolio/blob/main/Coding%20Projects/Local%20LLM%20Exploration/README.md)
 
 
 ### C++ Projects
