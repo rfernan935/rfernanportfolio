@@ -18,9 +18,3 @@ This project explores the integration of local large language models (LLMs) with
 
 - **Lightweight Fine-Tuning**: Explore ways to fine-tune the models to better retain user context and adapt responses.
 - **Interactive AI Tutoring**: Expand the chat history system into a fully-fledged AI tutor application that adapts to user needs and keeps track of their learning progress.
-
-## How to Use
-
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/rfernan935/local-llm-experiments.git
