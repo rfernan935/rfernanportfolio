@@ -11,7 +11,7 @@ This project explores the integration of local LLMs like Gemma and Llama 2 with 
 [GitHub Repo](https://github.com/rfernan935/rfernanportfolio/tree/main/Coding%20Projects/LLM%20Projects/Local%20LLM%20Exploration) | [Detailed Description](https://github.com/rfernan935/rfernanportfolio/blob/main/Coding%20Projects/LLM%20Projects/Local%20LLM%20Exploration/README.md)
 
 #### Interactive AI Tutoring
-blurb
+Intended to expand the local LLM chat history system into a fully-fledged AI tutor application that adapts to user needs and keeps track of their learning progress. *(Under construction)*
 [GitHub Repo](https://github.com/rfernan935/rfernanportfolio/tree/main/Coding%20Projects/LLM%20Projects/Interactive%20AI%20Tutoring) | [Detailed Description](https://github.com/rfernan935/rfernanportfolio/blob/main/Coding%20Projects/LLM%20Projects/Interactive%20AI%20Tutoring/README.md)
 
 
@@ -32,7 +32,7 @@ Exploring physical computing and microcontroller programming with the Arduino ID
 [GitHub Repo](https://github.com/rfernan935/rfernanportfolio/tree/main/Coding%20Projects/Arduino%20IDE)
 
 #### Arduino Line Following Robot
-This line-following robot uses an Arduino Uno and infrared sensors to detect and follow a black line on a white surface. It demonstrates basic autonomous navigation by controlling motor outputs based on real-time sensor input.
+This line-following robot uses an Arduino Uno and infrared sensors to detect and follow a black line on a white surface. It demonstrates basic autonomous navigation by controlling motor outputs based on real-time sensor input. *(Under construction)*
 [GitHub Repo](https://github.com/rfernan935/rfernanportfolio/tree/main/Coding%20Projects/Arduino%20IDE/LineFollowingRobot) | [Detailed Description](https://github.com/rfernan935/rfernanportfolio/blob/main/Coding%20Projects/Arduino%20IDE/LineFollowingRobot/README.md)
 
 #### IR Remote Control of a 7 Segment Display with Arduino
