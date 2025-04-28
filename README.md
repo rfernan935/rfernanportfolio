@@ -54,8 +54,8 @@ A modular collection of iOS Shortcuts that creates an interactive hub for playin
 
 
 ## Skills  
-- **Programming:** C++ | Object-Oriented Programming | Arduino IDE
-- **Tech Tools:** Visual Studio | Github | Apple Shortcuts  
+- **Programming:** C++ | Object-Oriented Programming | Arduino IDE | Large Language Models (LLM)
+- **Tech Tools:** Visual Studio | Github | Ollama | Apple Shortcuts  
 - **CS Concepts:** Data Structures & Algorithms  
 - **Other Tools:** Microsoft Office | Google Workspace  
 
