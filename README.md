@@ -1,5 +1,5 @@
 # Rebecca Fernandez - Tech Portfolio
-Aspiring software developer with a background in psychology and computer science coursework. Passionate about problem-solving and building intuitive, meaningful applications—especially those that blend software with real-world interactivity.  
+AI- and ethics-driven technologist with a background in psychology, philosophy, and computer science. I’m passionate about building intuitive, human-centered tools - especially at the intersection of software, cognition, and real-world interactivity. Currently focused on language models, embedded systems, and the future of ethical AI.
 
 ## Featured Projects
 ### Local Large Language Model (LLM) Projects
