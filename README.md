@@ -2,6 +2,12 @@
 Multidisciplinary AI professional with a foundation in psychology, neuroscience, and philosophy. Specializes in ethical AI, prompt engineering, and human-centered systems. Skilled in C++, Python, and large language models (LLMs). Creator of Tokenized Morality, a newsletter that translates academic AI ethics into accessible, actionable insight. Known for systems thinking, intellectual precision, and the ability to integrate human nuance into technical design.
 
 ## Featured Projects
+### AI Ethics Essay Newsletter: Tokenized Morality
+Creator and sole author of [Tokenized Morality](https://tokenizedmorality.substack.com/), a newsletter exploring the ethical, psychological, and philosophical stakes of emerging AI. Essays balance scholarly rigor with accessibility, engaging both technical and general audiences. Positions AI development within a broader human values framework.
+
+### GPT Prompt Engineering
+Developed a personalized GPT-based instance for advanced prompt engineering and instructional design. Created layered prompts for role-based reasoning, ethical analysis, and creative ideation. Utilized skills in token control, context injection, and hybrid narrative-logic structures for use in AI tutoring, content generation, and applied research.
+
 ### C++ Projects
 Simulator and minigame programs that demonstrate mastery of essential C++.
 [GitHub Repo](https://github.com/rfernan935/rfernanportfolio/tree/main/Coding%20Projects/C%2B%2B)
