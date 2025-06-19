@@ -1,20 +1,7 @@
 # Rebecca Fernandez - Tech Portfolio
-AI- and ethics-driven technologist with a background in psychology, philosophy, and computer science. I’m passionate about building intuitive, human-centered tools - especially at the intersection of software, cognition, and real-world interactivity. Currently focused on language models, embedded systems, and the future of ethical AI.
+Multidisciplinary AI professional with a foundation in psychology, neuroscience, and philosophy. Specializes in ethical AI, prompt engineering, and human-centered systems. Skilled in C++, Python, and large language models (LLMs). Creator of Tokenized Morality, a newsletter that translates academic AI ethics into accessible, actionable insight. Known for systems thinking, intellectual precision, and the ability to integrate human nuance into technical design.
 
 ## Featured Projects
-### Local Large Language Model (LLM) Projects
-LLM Projects including the integration of local LLMs with persistent memory systems, using models like Gemma and Llama 2 through Ollama. Focused on building adaptive, context-aware AI interactions with a C++-based chat history framework.
-[GitHub Repo](https://github.com/rfernan935/rfernanportfolio/tree/main/Coding%20Projects/LLM%20Projects)
-
-#### Local LLM Exploration: Gemma, Llama 2, and Persistent Memory Prototyping
-This project explores the integration of local LLMs like Gemma and Llama 2 with a focus on persistent memory systems, using C++ and Ollama. It lays the groundwork for adaptive, context-aware AI applications by prototyping a persistent chat history and dynamic learning framework. Future development aims to evolve this system into a lightweight, interactive AI tutor that personalizes itself over time.
-[GitHub Repo](https://github.com/rfernan935/rfernanportfolio/tree/main/Coding%20Projects/LLM%20Projects/Local%20LLM%20Exploration) | [Detailed Description](https://github.com/rfernan935/rfernanportfolio/blob/main/Coding%20Projects/LLM%20Projects/Local%20LLM%20Exploration/README.md)
-
-#### Interactive AI Tutoring
-Intended to expand the local LLM chat history system into a fully-fledged AI tutor application that adapts to user needs and keeps track of their learning progress. *(Under construction)*
-[GitHub Repo](https://github.com/rfernan935/rfernanportfolio/tree/main/Coding%20Projects/LLM%20Projects/Interactive%20AI%20Tutoring) | [Detailed Description](https://github.com/rfernan935/rfernanportfolio/blob/main/Coding%20Projects/LLM%20Projects/Interactive%20AI%20Tutoring/README.md)
-
-
 ### C++ Projects
 Simulator and minigame programs that demonstrate mastery of essential C++.
 [GitHub Repo](https://github.com/rfernan935/rfernanportfolio/tree/main/Coding%20Projects/C%2B%2B)
